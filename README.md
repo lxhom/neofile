@@ -16,14 +16,14 @@ Neofile (short for Neofetch profile) is a tool that allows you to create [neofet
 :########                        ########:  ︎︎List:‌ Entry One,
 `########.                      .########´  Line Wrap, Entry Three
  ³########:.                  .:########³   ︎︎Key: Value
-  `############:..       ..:###########´    ︎︎Numbers: 123 123abc
+  `############:..      ..:############´    ︎︎Numbers: 123 123abc
     `###. `³####´        `###########´      ︎︎Mo‌re (text): Value (text)
       `###:. `³´          #########´        ︎︎Key:‌ A lot of text
         `³######          ######³´        
             `³³´          `³³´     
 ```
 
-###### (Note that there are a few invisible characters in the text so just typing more won't work without copypasting the right characters.)
+###### (This is only a PoC, this might differ from the final product. Note that there are a few invisible characters in the text so just typing more won't work without copypasting the right characters.)
 
 See [the neofetch github page](https://github.com/dylanaraps/neofetch) for neofetch exapmles.
 

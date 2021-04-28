@@ -26,6 +26,8 @@
     "neofile": "neofile.js"
   },
   "dependencies": {
+    "@types/node": "^15.0.1",
+    "commander": "^7.2.0",
     "enquirer": "^2.3.6"
   }
 }

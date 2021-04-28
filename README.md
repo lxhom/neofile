@@ -27,4 +27,31 @@ Neofile (short for Neofetch profile) is a tool that allows you to create [neofet
 
 See [the neofetch github page](https://github.com/dylanaraps/neofetch) for neofetch exapmles.
 
-WIP
+# Installation
+
+> Note: You need to have [node.js](https://nodejs.org) installed.
+
+## Local installation
+
+- Clone this repository (either use `git clone https://github.com/lxhom/neofile.git` or press on the Code -> Download Zip button & extract it)
+- Open the neofile folder in your terminal
+- Run `node neofile`
+
+## Global installation with npm with source
+
+- Clone this repository (either use `git clone https://github.com/lxhom/neofile.git` or press on the Code -> Download Zip button & extract it)
+- Open the neofile folder in your terminal
+- Run `npm i -g`
+- Run `neofile`
+
+## Global installation with npm
+
+- Not implemented yet
+
+## Node.js module installation
+
+- Not implemented yet
+
+# Usage
+
+

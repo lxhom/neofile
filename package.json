@@ -1,0 +1,31 @@
+{
+  "name": "neofile",
+  "version": "0.0.0",
+  "description": "Neofile (short for Neofetch profile) is a tool that allows you to create neofetch-style GitHub Profile README's.",
+  "main": "neofile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxhom/neofile.git"
+  },
+  "keywords": [
+    "neofetch",
+    "github",
+    "markdown",
+    "tools"
+  ],
+  "author": "lxhom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lxhom/neofile/issues"
+  },
+  "homepage": "https://github.com/lxhom/neofile#readme",
+  "bin": {
+    "neofile": "neofile.js"
+  },
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  }
+}
